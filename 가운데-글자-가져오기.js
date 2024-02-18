@@ -6,7 +6,6 @@ function solution(s) {
     }else if(s.length %2 === 0) {
         return answer = [dex] + [dex + 1];
     }
-
 }
 
 // 두 정수 사이의 합
