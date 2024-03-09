@@ -4,6 +4,7 @@ function solution(n) {
             return x;   
         }
     }
+    
     console.log(x);
 }
 
