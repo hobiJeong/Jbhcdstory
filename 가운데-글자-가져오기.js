@@ -4,6 +4,7 @@ function solution(s) {
     if(s.length % 2 === 1) {
         return answer = [dex];
     }else if(s.length %2 === 0) {
+        
         return answer = [dex] + [dex + 1];
     }
 }
